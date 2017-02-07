@@ -14,4 +14,6 @@ print "\n";
 
 print "saps fer-ho de més maneres?\n";
 
-print "ho sento... necessito uns mesents més... jajajajja\n";
+print "Ho sento... necessito uns mesets més... jajajajja\n";
+
+print "primera pista. Foreach....\n";
