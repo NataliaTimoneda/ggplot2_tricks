@@ -13,3 +13,5 @@ print "$i\t";
 print "\n";
 
 print "saps fer-ho de més maneres?\n";
+
+print "ho sento... necessito uns mesents més... jajajajja\n";
