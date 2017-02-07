@@ -12,4 +12,5 @@ print "$i\t";
 }
 print "\n";
 
+print "saps fer-ho de més maneres?\n";
 
