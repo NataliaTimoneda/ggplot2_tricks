@@ -16,12 +16,8 @@ print "\n";
 
 print "saps fer-ho de més maneres?\n";
 
-print "Ho sento... necessito uns mesets més... jajajajja\n";
-
-print "primera pista. Foreach....\n";
-
+print "ho sento... necessito uns mesents més... jajajajja\n";
 
 my $x=3;
 my $y=2;
 print "$x plus $y is ", $x + $y, "\n";
-
