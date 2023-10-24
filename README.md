@@ -9,9 +9,9 @@ formato_fecha <- function(fecha) {
   fecha_formateada <- paste(mes_ingles, dia, sep = " ")
   return(fecha_formateada)
 }
-```
-df$Date <- sapply(df$Date, formato_fecha)
 
+df$Date <- sapply(df$Date, formato_fecha)
+```
 
 ##FAQ
 * Why sometimes the ASV number aren't in the order if the asv's are order by abundance?
